@@ -15,13 +15,13 @@ This dataset consists of a list of colleges classified into Tier 1, Tier 2, and 
 This dataset contains detailed information about employees, including their educational background, city of employment, job role, previous salary (CTC), previous job changes, graduation marks, total experience in months, and current salary (CTC).
 
 #### Fields:
-College Name
-City
-Role
-Previous CTC
-Previous Job Changes
-Graduation Marks
-Experience in Months
+College Name, 
+City, 
+Role, 
+Previous CTC, 
+Previous Job Changes, 
+Graduation Marks, 
+Experience in Months, 
 Current CTC
 
 
