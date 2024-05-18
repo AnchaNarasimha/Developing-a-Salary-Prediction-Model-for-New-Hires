@@ -1,1 +1,1 @@
-# Developing-a-Salary-Prediction-Model-for-New-Hires
+# Salary-Prediction-Model-for-New-Hires
